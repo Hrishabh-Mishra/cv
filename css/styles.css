@@ -1,0 +1,17 @@
+body{
+    background-color: #FFFFE8;
+}
+hr{
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 7%;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Kaushan Script', serif ;
+    color: #00425A;
+}
+h3{
+    color: #66BFBF;
+}
